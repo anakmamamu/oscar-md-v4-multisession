@@ -48,7 +48,7 @@ global.ppulsa2 = '085242489614' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/Jarotoffc'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '65721 Hongkong'
+global.nomorbot = '6285242489614'
 global.nomorown = '6285242489614'
 global.namebot = 'VENOM-𝘔𝘥'
 global.nameown = 'Yance 𝘖𝘧𝘧𝘤'
